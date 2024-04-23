@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WGmVrI6/VhRf2LfcEa8lzbC8TOlfMv3IQBnVPV4+qoU=",
+  "Source": "SOAP_assessment",
+  "BasePath": "_content/SOAP_assessment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
